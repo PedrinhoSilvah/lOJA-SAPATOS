@@ -168,15 +168,16 @@ button{
 
 @media screen and (max-width:640px) {
     .tenis-img{
-        width: 90%;
+        width: 100%;
         display: block;
     }
     .tenis-img div{
-        width: 200px;
+        width: 290px;
+        margin: 20px 0;
         
     }
     .tenis-img img{
-        width: 300px;
+        width: 290px;
     }
     .tenis-img div h3{
         width: 100%;
@@ -199,7 +200,7 @@ button{
     }
 
     button{
-        width: 300px;
+        width: 290px;
     }
         
     #secao-l{
@@ -221,7 +222,8 @@ button{
     }
 
     #secao-produtos{
-        margin: 0 70px;
+        width: 75%;
+        margin: 0 50px;
     }
 }
 
